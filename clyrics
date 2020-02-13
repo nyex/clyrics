@@ -341,7 +341,7 @@ sub get_lyrics {
 
     state $sites = decode_utf8(join(' OR ', map { "site:$_->{site}" } @plugins));
 
-    $mech->get('https://www.google.com/');
+    $mech->get('https://duckduckgo.com/');
     $mech->submit_form(
                        form_number => 1,
                        fields      => {
