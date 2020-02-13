@@ -1,3 +1,7 @@
+## FORK INFO
+I just changed the search engine so that clyrics would use DuckDuckGo to find results, as Google was showing bad results for AZLyrics (just the artist's name). I can't code.
+
+
 clyrics
 =======
 
